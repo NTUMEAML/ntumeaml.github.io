@@ -1,6 +1,8 @@
-/* Hide search keyboard shortcut hint (⌘K / Ctrl+K) */
-.search-hint,
-.search-shortcut,
-.kbd-hint {
-  display: none !important;
+/* Hide search shortcut text (ctrl k / ⌘ k) but keep the icon */
+#search-toggle .nav-link {
+  font-size: 0;
+}
+
+#search-toggle .nav-link i {
+  font-size: 1rem; /* recover icon size */
 }
