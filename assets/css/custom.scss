@@ -1,0 +1,6 @@
+/* Hide search keyboard shortcut hint (⌘K / Ctrl+K) */
+.search-hint,
+.search-shortcut,
+.kbd-hint {
+  display: none !important;
+}
