@@ -1,8 +1,33 @@
-/* Hide search shortcut text (ctrl k / ⌘ k) but keep the icon */
-#search-toggle .nav-link {
-  font-size: 0;
+// /* Hide search shortcut text (ctrl k / ⌘ k) but keep the icon */
+// #search-toggle .nav-link {
+//   font-size: 0;
+// }
+
+// #search-toggle .nav-link i {
+//   font-size: 1rem; /* recover icon size */
+// }
+
+/* =================================================
+   Custom override: search icon alignment (navbar)
+   ================================================= */
+
+/* Search toggle button */
+#search-toggle {
+  display: inline-flex;
+  align-items: center;
+  height: 100%;
 }
 
+/* Hide text (ctrl k / ⌘ k) but keep structure */
+#search-toggle .nav-link {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0; /* hide text */
+}
+
+/* Magnifying glass icon */
 #search-toggle .nav-link i {
-  font-size: 1rem; /* recover icon size */
+  font-size: 1rem;
+  line-height: 1;
+  display: block;
 }
