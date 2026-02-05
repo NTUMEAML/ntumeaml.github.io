@@ -35,13 +35,12 @@
 /* change Teachings to Teach in Search */
 .search-modal .nav-link[data-target="#teaching"],
 .search-results .category-title:contains("Teachings") {
-//  font-size: 0;
-  content: "Teach";
+  font-size: 0;
 }
 
-//.search-modal .nav-link[data-target="#teaching"]::after,
-//.search-results .category-title:contains("Teachings")::after {
-//  content: "Teach";
-//  font-size: 1rem;
-//  visibility: visible;
-//}
+.search-modal .nav-link[data-target="#teaching"]::after,
+.search-results .category-title:contains("Teachings")::after {
+  content: "Teach";
+  font-size: 1rem;
+  visibility: visible;
+}
