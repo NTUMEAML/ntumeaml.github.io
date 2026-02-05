@@ -49,19 +49,42 @@
    ================================================ */
 
 /* 1. */
-.search-modal .nav-link[data-target*="#teaching"],
-.search-results .tab-pane#teaching .category-title,
-.search-results [data-category="teaching"] .category-title {
-  font-size: 0 !important;
-  letter-spacing: 0;
-}
+//.search-modal .nav-link[data-target*="#teaching"],
+//.search-results .tab-pane#teaching .category-title,
+//.search-results [data-category="teaching"] .category-title {
+//  font-size: 0 !important;
+//  letter-spacing: 0;
+//}
 
 /* 2. */
-.search-modal .nav-link[data-target*="#teaching"]::after,
-.search-results .tab-pane#teaching .category-title::after,
-.search-results [data-category="teaching"] .category-title::after {
+//.search-modal .nav-link[data-target*="#teaching"]::after,
+//.search-results .tab-pane#teaching .category-title::after,
+//.search-results [data-category="teaching"] .category-title::after {
+//  content: "Teach" !important;
+//  font-size: 1rem !important;
+//  visibility: visible !important;
+//}
+//  font-weight: 500;
+
+/* */
+.search-modal .nav-link:contains("Teachings"),
+.search-modal [data-target*="#teaching"],
+.search-results .category-title:contains("Teachings"),
+.search-results [data-category="teaching"] .category-title,
+.search-results #teaching .category-title {
+  font-size: 0 !important;
+  visibility: hidden !important;
+}
+
+/* */
+.search-modal .nav-link:contains("Teachings")::after,
+.search-modal [data-target*="#teaching"]::after,
+.search-results .category-title:contains("Teachings")::after,
+.search-results [data-category="teaching"] .category-title::after,
+.search-results #teaching .category-title::after {
   content: "Teach" !important;
   font-size: 1rem !important;
-//  font-weight: 500;
   visibility: visible !important;
+  display: inline-block !important;
 }
+//font-weight: 500 !important;
