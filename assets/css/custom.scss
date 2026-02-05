@@ -66,26 +66,22 @@
 //}
 //  font-weight: 500;
 
-/* */
-.search-modal .nav-link:contains("Teachings"),
-.search-modal [data-target*="#teaching"],
-.search-results .category-title:contains("Teachings"),
-.search-results [data-category="teaching"] .category-title,
-.search-results #teaching .category-title {
+/* ================================================
+   ================================================ */
+
+/* 1. */
+.search-modal .group-header:contains("Teachings"),
+.search-results .group-header:contains("Teachings") {
   font-size: 0 !important;
   visibility: hidden !important;
 }
 
-/* */
-.search-modal .nav-link:contains("Teachings")::after,
-.search-modal [data-target*="#teaching"]::after,
-.search-results .category-title:contains("Teachings")::after,
-.search-results [data-category="teaching"] .category-title::after,
-.search-results #teaching .category-title::after {
+/* 2. */
+.search-modal .group-header:contains("Teachings")::after,
+.search-results .group-header:contains("Teachings")::after {
   content: "Teach" !important;
   font-size: 1rem !important;
-  visibility: visible !important;
   font-weight: 500 !important;
+  visibility: visible !important;
   display: inline-block !important;
 }
-
