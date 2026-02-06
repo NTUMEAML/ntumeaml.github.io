@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",()=>{const t=document.querySelector("ninja-keys");if(!t)return;const e={navigation:"Navigation",books:"Publications",news:"News",projects:"Projects",teaching:"Teach"};t.groups=[{id:"navigation",title:e.navigation},{id:"books",title:e.books},{id:"news",title:e.news},{id:"projects",title:e.projects},{id:"teaching",title:e.teaching}]});
