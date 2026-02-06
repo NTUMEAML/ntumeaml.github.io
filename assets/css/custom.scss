@@ -31,3 +31,17 @@
   line-height: 1;
   display: block;
 }
+
+/* 新版 ninja-keys (Lit) 專用：把 Teachings 改成 Teach */
+.group-header:contains("Teachings") {
+  font-size: 0 !important;
+  visibility: hidden !important;
+}
+
+.group-header:contains("Teachings")::after {
+  content: "Teach" !important;
+  font-size: 1rem !important;
+  font-weight: 500 !important;
+  visibility: visible !important;
+  display: inline-block !important;
+}
