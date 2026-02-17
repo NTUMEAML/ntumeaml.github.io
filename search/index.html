@@ -10,14 +10,37 @@
           showImages: true,            // 是否在搜尋結果顯示圖片
           showSubResults: true,        // 是否顯示內文的小標題結果
           exact: false,                 // 啟用精確匹配
-          mergeIndex: ["en", "zh"],    // 合併多個語言索引
+          // mergeIndex: ["en", "zh"],    // 合併多個語言索引
 
-          // ⭐ 關鍵：自動加上雙引號
+          // ⭐ 只在「超過一個單字」時自動轉為短語搜尋
           processTerm: (term) => {
-            if (term.includes(" ") && !/^".*"$/.test(term)) {
-              return `"${term}"`;
+
+            const trimmed = term.trim();
+
+            // 空字串不處理
+            if (!trimmed) return trimmed;
+
+            // 若使用者已自行加上雙引號 → 不處理
+            if (/^".*"$/.test(trimmed)) {
+              return trimmed;
             }
-            return term;
+
+            // 若包含進階搜尋語法 → 不處理
+            if (
+              trimmed.includes(" OR ") ||
+              trimmed.includes("-")
+            ) {
+              return trimmed;
+            }
+
+            // 若超過一個單字 → 自動加引號
+            const wordCount = trimmed.split(/\s+/).length;
+
+            if (wordCount > 1) {
+              return `"${trimmed}"`;
+            }
+
+            return trimmed;
           },
 
           translations: {
