@@ -5,7 +5,10 @@
         {%- if site.data.venues[entry.abbr] -%}
           {% assign venue_style = null %}
           {% if site.data.venues[entry.abbr].color != blank %}
-            {% assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' %}
+            {% assign venue_style = site.data.venues[entry.abbr].color
+              | prepend: 'style="background-color:'
+              | append: '"'
+            %}
           {%- endif -%}
           <abbr
             class="badge rounded w-100"
@@ -28,20 +31,17 @@
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
         {% else %}
           {% assign entry_path = entry.preview | prepend: '/assets/img/publication_preview/' %}
-          {% include figure.liquid
+          {%
+            include figure.liquid
             loading="eager"
             path=entry_path
-            sizes="200px"
+            sizes = "200px"
             class="preview z-depth-1 rounded"
             zoomable=true
-            avoid_scaling=true
             alt=entry.preview
           %}
         {% endif %}
       {% endif %}
     </div>
   {% endif %}
-
-  <!-- Entry bib key -->
-
 </div>
