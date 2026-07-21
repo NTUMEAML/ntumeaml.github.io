@@ -1,0 +1,157 @@
+- title: 基本資訊
+  type: map
+  contents:
+    - name: Name
+      value: 王建凱 副教授 (Chien-Kai Wang, Ph.D.)
+    - name: Email
+      value: ckwang [at] ntu [dot] edu [dot] tw
+    - name: Address
+      value: 106319 臺北市大安區羅斯福路四段一號
+    - name: Office
+      value: 機械系館 407 室
+    - name: Laboratory
+      value: 機械系館 501 室（應用力學實驗室）
+    - name: Tel.
+      value: 886-2-3366-4515&emsp;886-2-3366-2769
+    - name: Fax
+      value: 886-2-2363-1755
+
+- title: 教育背景
+  type: time_table
+  contents:
+    - title: 固體力學博士
+      institution: 美國布朗大學，普羅維登斯，羅德島州
+      year: 2008 - 2014
+    - title: 應用數學碩士
+      institution: 美國布朗大學，普羅維登斯，羅德島州
+      year: 2008 - 2010
+    - title: 結構工程碩士
+      institution: 國立臺灣大學，臺北市，臺灣
+      year: 2003 - 2005
+    - title: 土木工程學士
+      institution: 國立臺灣大學，臺北市，臺灣
+      year: 1999 - 2003
+    - title: 高級中學
+      institution: 國立臺灣師範大學附屬高級中學，臺北市，臺灣
+      year: 1996 - 1999
+
+- title: 核心經歷
+  type: time_table
+  contents:
+    - title: 副教授
+      institution: 國際半導體學士學位學程，國立臺灣大學，臺北市，臺灣
+      year: 2024 - PRES.
+    - title: 副教授
+      institution: 機械工程學系，國立臺灣大學，臺北市，臺灣
+      year: 2023 - PRES.
+    - title: 助理教授
+      institution: 機械工程學系，國立臺灣大學，臺北市，臺灣
+      year: 2020 - 2023
+    - title: 訪問學者
+      institution: 應用科學研究中心，中央研究院，臺北市，臺灣
+      year: 2017 - 2019
+    - title: 博士後研究員
+      institution: 應用科學研究中心，中央研究院，臺北市，臺灣
+      year: 2014 - 2015
+
+- title: 榮譽獲獎
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - 最佳計畫成果發表第三名，國家科學及技術委員會工程處航太及熱流學門（航太領域）
+    - year: 2024
+      items:
+        - 第 31 屆傑出校友獎，國立臺灣大學土木工程學系
+    - year: 2023
+      items:
+        - 教學優良獎，國立臺灣大學
+    - year: 2022
+      items:
+        - 指導教授獎，中技社科技獎學金
+    - year: 2019
+      items:
+        - 優秀發表獎，國際智能感測器會議
+
+- title: 專業會員
+  type: time_table
+  contents:
+    - year: 2024 - PRES.
+      items:
+        - 國際計算力學學會會員
+    - year: 2022 - PRES.
+      items:
+        - 台灣計算力學學會創會與終身會員
+    - year: 2021 - PRES.
+      items:
+        - 台灣流體動力學學會創會會員
+    - year: 2020 - PRES.
+      items:
+        - 國立臺灣大學教職員羽球隊隊員
+    - year: 2019 - PRES.
+      items:
+        - 國際 IEEE 醫學與生物工程學會會員
+    - year: 2015 - PRES.
+      items:
+        - 中華民國力學學會終身會員
+
+- title: 學術認證
+  type: time_table
+  contents:
+    - year: 2015
+      items:
+        - 內容與語言整合學習授課（CLIL），原則與最佳實踐課程，澳洲昆士蘭大學，布里斯本
+
+- title: 服務參與
+  type: time_table
+  contents:
+    - year: 2026 - PRES.
+      items:
+        - 青年編輯委員會，Journal of Mechanics，Oxford University Press
+    - year: 2025 - PRES.
+      items:
+        - 經濟部所屬事業機構招考命題暨閱卷委員
+    - year: 2024 - 2026
+      items:
+        - 國立臺灣大學機械工程學系課程委員會（固力組代表）
+    - year: 2022 - 2026
+      items:
+        - 中華民國力學學會出版委員會
+    - year: 2022 - PRES.
+      items:
+        - 台灣計算力學學會
+    - year: 2022 - 2024
+      items:
+        - 中華民國力學學會財務委員會
+    - year: 2021 – 2024
+      items:
+        - 國立臺灣大學機械工程學系招生委員會（固力組代表）
+    - year: 2020 – 2021
+      items:
+        - 國立臺灣大學機械工程學系環境安全衛生委員會（固力組代表）
+    - year: 2022 - PRES.
+      items:
+        - 國立臺灣大學教職員羽球隊
+    - year: 2016 - 2018
+      items:
+        - 中華民國力學學會科普委員會
+
+- title: 技術專利
+  type: time_table
+  contents:
+    - year: 2016
+      items:
+        - 韓國專利：System and Method for Measuring Distribution of Deformation using Atomic Force. Jang, B., Kim, J.-H., Lee, H.-J., Kim, K.-S. and Wang, C.-K. Registration No. 10-1633648
+    - year: 2015
+      items:
+        - 美國專利：Device and Method for Measuring Distribution of Atomic Resolution Deformation. Jang, B., Kim, J.-H., Lee, H.-J., Kim, K.-S. and Wang, C.-K. Patent Number 9,003,561
+
+- title: 期刊論文
+  type: list
+  contents:
+    - 請見 <a href="https://ntumeaml.github.io/papers/">Papers</a>：國際期刊論文
+
+- title: 會議演講
+  type: list
+  contents:
+    - 請見 <a href="https://ntumeaml.github.io/talks/">Talks</a>：學術會議與受邀演講

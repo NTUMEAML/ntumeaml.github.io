@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="{{ site.lang }}">
+  <!-- Head -->
+  <head data-pagefind-ignore>
+    {% if page.redirect %}
+      {% if page.redirect == true %}
+        {% assign redirect = site.baseurl | append: '/' %}
+      {% elsif page.redirect contains '://' %}
+        {% assign redirect = page.redirect %}
+      {% else %}
+        {% assign redirect = page.redirect | relative_url %}
+      {% endif %}
+      <meta http-equiv="refresh" content="3; url={{ redirect }}">
+    {% endif %}
+    {% include head.liquid %}
+  </head>
+
+  <!-- Body -->
+  <body
+    class="{% if site.navbar_fixed %}fixed-top-nav{% endif %} {% unless site.footer_fixed %}sticky-bottom-footer{% endunless %}"
+  >
+    <!-- Header (Navbar) -->
+    <div data-pagefind-ignore>
+      {% include header.liquid %}
+    </div>
+
+    <!-- Main Content Only Indexed -->
+    <main class="container mt-5" role="main">
+      {% if page.toc and page.toc.sidebar %}
+        {% if page.toc.sidebar == 'right' %}
+          <div class="row">
+            <!-- Main content area (Indexed) -->
+            <div class="col-sm-9">
+              {% if page.pagefind == true %}
+                <article data-pagefind-body>
+                  {{ content }}
+                </article>
+              {% else %}
+                <div data-pagefind-ignore>
+                  {{ content }}
+                </div>
+              {% endif %}
+            </div>
+
+            <!-- Sidebar (Ignored) -->
+            <aside class="col-sm-3" data-pagefind-ignore>
+              <nav id="toc-sidebar" class="sticky-top"></nav>
+            </aside>
+          </div>
+        {% else %}
+          <div class="row">
+            <!-- Sidebar (Ignored) -->
+            <aside class="col-sm-3" data-pagefind-ignore>
+              <nav id="toc-sidebar" class="sticky-top"></nav>
+            </aside>
+
+            <!-- Main content area (Indexed) -->
+            <div class="col-sm-9">
+              {% if page.pagefind == true %}
+                <article data-pagefind-body>
+                  {{ content }}
+                </article>
+              {% else %}
+                <div data-pagefind-ignore>
+                  {{ content }}
+                </div>
+              {% endif %}
+            </div>
+          </div>
+        {% endif %}
+      {% else %}
+        {% if page.pagefind == true %}
+          <article data-pagefind-body>
+            {{ content }}
+          </article>
+        {% else %}
+          <div data-pagefind-ignore>
+            {{ content }}
+          </div>
+        {% endif %}
+      {% endif %}
+    </main>
+
+    <!-- Footer (Ignored) -->
+    <div data-pagefind-ignore>
+      {% include footer.liquid %}
+    </div>
+
+    <!-- JavaScripts (Ignored) -->
+    <div data-pagefind-ignore>
+      {% include scripts.liquid %}
+    </div>
+  </body>
+</html>
