@@ -346,6 +346,13 @@
         </div>
       </div>
     {% endif %}
-    {% if entry.bibtex_show %}<div class="bibtex hidden">{% highlight bibtex %}{{- entry.bibtex | hideCustomBibtex -}}{% endhighlight %}</div>{% endif %}
+    {% capture bibtex_content %}
+      {% highlight bibtex %}{{- entry.bibtex | hideCustomBibtex -}}{% endhighlight %}
+    {% endcapture %}
+    {% if entry.bibtex_show %}
+      <div class="bibtex hidden">
+        {{ bibtex_content }}
+      </div>
+    {% endif %}
   </div>
 </div>
