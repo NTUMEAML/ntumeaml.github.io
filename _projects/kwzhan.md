@@ -2,7 +2,7 @@
 layout: page
 title: 詹冠緯
 description: <small>碩士 2022 畢</small><small><small> - 浸潤參考映射技術於流固耦合力學解析研究</small></small>
-importance: 31
+importance: 37
 category: Alumni
 pagefind: true
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: 陳宣伃
 description: <small>碩士 2024 畢</small><small><small> - 應用淺層神經網路技術於非線性材料之機械力學特性識別研究</small></small>
-importance: 24
+importance: 30
 category: Alumni
 pagefind: true
 ---

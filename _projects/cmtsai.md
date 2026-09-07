@@ -2,7 +2,7 @@
 layout: page
 title: 蔡昌旻
 description: <small>碩士 2017 畢</small><small><small> - 結構最佳設計力學於對應系統動力尖峰反應之極限載重研究</small></small>
-importance: 39
+importance: 45
 category: Alumni
 pagefind: true
 ---

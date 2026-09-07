@@ -2,7 +2,7 @@
 layout: page
 title: 楊智翔
 description: <small>碩士 2025 畢</small><small><small> - 以流體模擬軟體為計算引擎之流固耦合力學分析系統開發</small></small>
-importance: 17
+importance: 23
 category: Alumni
 pagefind: true
 ---

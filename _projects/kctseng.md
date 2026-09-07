@@ -2,7 +2,7 @@
 layout: page
 title: 曾高捷
 description: <small>碩士 2024 畢</small><small><small> - 應用有限元素法於材料強度校準之逆向工程研究</small></small>
-importance: 23
+importance: 29
 category: Alumni
 pagefind: true
 ---

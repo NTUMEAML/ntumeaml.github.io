@@ -3,7 +3,7 @@ layout: page
 title: 簡詩庭
 description: <small>碩士 2026 畢</small><small><small> - 焊球構裝晶片之機械效能分析與智慧生成設計</small></small>
 img: assets/img/stjian.png
-importance: 2
+importance: 14
 category: Alumni
 pagefind: true
 ---

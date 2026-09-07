@@ -2,7 +2,7 @@
 layout: page
 title: 黃唯哲
 description: <small>碩士 2025 畢</small><small><small> - 應用沉浸有限元素法於具複雜幾何微流體元件之固液耦合計算力學研究</small></small>
-importance: 18
+importance: 24
 category: Alumni
 pagefind: true
 ---

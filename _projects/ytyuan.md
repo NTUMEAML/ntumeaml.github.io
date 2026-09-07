@@ -3,7 +3,7 @@ layout: page
 title: 袁雨瞳
 description: <small>大專生</small><small><small> - 機械振動控制驅動之生成式樂高智慧積木套組開發研究</small></small>
 img: assets/img/ytyuan.png
-importance: 13
+importance: 12
 category: College
 pagefind: true
 ---

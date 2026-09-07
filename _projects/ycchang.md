@@ -2,7 +2,7 @@
 layout: page
 title: 張育承
 description: <small>碩士 2020 畢</small><small><small> - 應用原子力顯微術於人類肺泡腺體上皮癌細胞之力學性質研究</small></small>
-importance: 35
+importance: 41
 category: Alumni
 pagefind: true
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: 廖晏晨
 description: <small>碩士 2019 畢</small><small><small> - 應用有限元素分析於纖維化肺組織之力學研究</small></small>
-importance: 37
+importance: 43
 category: Alumni
 pagefind: true
 ---

@@ -3,7 +3,7 @@ layout: page
 title: 黃峻奕
 description: <small>碩士生</small><small><small> - 細胞生物微觀變形之影像量測去噪技術研究</small></small>
 img: assets/img/cyhuang.png
-importance: 11
+importance: 4
 category: Graduate
 pagefind: true
 ---

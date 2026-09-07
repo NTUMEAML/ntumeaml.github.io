@@ -1,9 +1,9 @@
 ---
 layout: page
 title: 劉䕒允
-description: <small>碩士生</small><small><small> - 樂高動力積木系統之生成式智慧設計技術開發</small></small>
+description: <small>碩士 2026 畢</small><small><small> - 樂高動力積木系統之生成式智慧設計技術開發</small></small>
 img: assets/img/cyliu2.png
-importance: 8
+importance: 20
 category: Alumni
 pagefind: true
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: 呂季鴻
 description: <small>碩士 2025 畢</small><small><small> - 主動調諧質量阻尼器於機械系統之振動解析與原型實驗研究</small></small>
-importance: 16
+importance: 22
 category: Alumni
 pagefind: true
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: 蔡汶憲
 description: <small>碩士 2023 畢</small><small><small> - 層膠材料於第一模式剝離內聚力強度之實驗量測和理論分析研究</small></small>
-importance: 28
+importance: 34
 category: Alumni
 pagefind: true
 ---

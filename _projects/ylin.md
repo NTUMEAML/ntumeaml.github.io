@@ -2,7 +2,7 @@
 layout: page
 title: 林昀
 description: <small>碩士 2022 畢</small><small><small> - 簡諧負載響應關聯法於隨機振動力學解析研究</small></small>
-importance: 33
+importance: 39
 category: Alumni
 pagefind: true
 ---

@@ -3,7 +3,7 @@ layout: page
 title: 朱芃睿
 description: <small>碩士生</small><small><small> - 應用物理科學神經網路於有限元素計算理論與技術發展</small></small>
 img: assets/img/przhu.png
-importance: 10
+importance: 3
 category: Graduate
 pagefind: true
 ---

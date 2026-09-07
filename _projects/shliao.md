@@ -2,7 +2,7 @@
 layout: page
 title: 廖紹宏
 description: <small>碩士 2024 畢</small><small><small> - 具聚合物薄膜多層堆疊組件於電子封裝製程之非線性變形研究</small></small>
-importance: 22
+importance: 28
 category: Alumni
 pagefind: true
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: 姜品謙
 description: <small>碩士 2022 畢</small><small><small> - 內嵌水平集函數之浸潤邊界法於流固耦合計算力學研究</small></small>
-importance: 32
+importance: 38
 category: Alumni
 pagefind: true
 ---

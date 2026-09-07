@@ -3,7 +3,7 @@ layout: page
 title: 郭玉成
 description: <small>碩士生</small><small><small> - 新式流固耦合之力學分析理論與計算技術研究</small></small>
 img: assets/img/yckuo.png
-importance: 12
+importance: 5
 category: Graduate
 pagefind: true
 ---

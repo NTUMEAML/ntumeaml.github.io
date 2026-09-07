@@ -2,7 +2,7 @@
 layout: page
 title: 鄧佳怡
 description: <small>碩士 2019 畢</small><small><small> - 摺疊模型之實作與結構力學分析</small></small>
-importance: 36
+importance: 42
 category: Alumni
 pagefind: true
 ---

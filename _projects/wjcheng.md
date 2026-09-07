@@ -2,7 +2,7 @@
 layout: page
 title: 鄭惟仁
 description: <small>碩士 2017 畢</small><small><small> - 最佳設計力學於摺疊結構之研究</small></small>
-importance: 38
+importance: 44
 category: Alumni
 pagefind: true
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: 黃德淑
 description: <small>碩士 2020 畢</small><small><small> - 整合電腦輔助設計與科學計算軟體於對應不確定擬靜態外力之系統極端反應研究</small></small>
-importance: 34
+importance: 40
 category: Alumni
 pagefind: true
 ---

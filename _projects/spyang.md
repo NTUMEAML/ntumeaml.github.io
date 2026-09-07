@@ -2,7 +2,7 @@
 layout: page
 title: 楊昕珮
 description: <small>碩士 2024 畢</small><small><small> - 融合材料內聚力之有限元素分析於變形速率相依與週期輪廓界面之機械強度解析</small></small>
-importance: 20
+importance: 26
 category: Alumni
 pagefind: true
 ---

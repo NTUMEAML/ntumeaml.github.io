@@ -3,7 +3,7 @@ layout: page
 title: 陳曉瑄
 description: <small>碩士 2026 畢</small><small><small> - 晶片封裝系統之熱固耦合不確定性定量解析</small></small>
 img: assets/img/hhchen.png
-importance: 4
+importance: 16
 category: Alumni
 pagefind: true
 ---

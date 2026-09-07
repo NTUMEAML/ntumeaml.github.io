@@ -3,7 +3,7 @@ layout: page
 title: 黃懷稼
 description: <small>大專生</small><small><small> - 應用樂高智慧積木套組於熱成像顯微鏡之原型實驗開發研究</small></small>
 img: assets/img/hchuang.png
-importance: 14
+importance: 13
 category: College
 pagefind: true
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: 周峮毅
 description: <small>碩士 2024 畢</small><small><small> - 應用沉浸邊界法於具複雜幾何微流體元件之固液耦合計算力學研究</small></small>
-importance: 26
+importance: 32
 category: Alumni
 pagefind: true
 ---
