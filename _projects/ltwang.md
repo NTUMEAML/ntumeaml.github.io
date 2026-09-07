@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 王俐婷
-description: <small>碩士生</small><small><small> - 應用溫敏黏塑性力學於焊球構裝晶片電子元件的模擬技術研究</small></small>
+description: <small>碩士生</small><small><small> - 焊球構裝晶片電子元件之先進模擬技術研究</small></small>
 img: assets/img/ltwang.png
 importance: 2
 category: Graduate
