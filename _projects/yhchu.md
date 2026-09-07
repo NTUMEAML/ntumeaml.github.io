@@ -1,39 +1,45 @@
 ---
 layout: page
-title: 張敬宇
-description: <small>碩士生</small><small><small> - 細胞生物微觀變形之影像量測即時與全流程去噪技術研究</small></small>
-img: assets/img/cychang.png
+title: 朱原希
+description: <small>碩士生</small><small><small> - 融合有限元素計算與科學神經網路於晶圓先進製程模擬技術研究</small></small>
+img: assets/img/yhchu.png
 importance: 11
 category: Graduate
 pagefind: true
 ---
 
-<span class="highlight-text"><small><small>學號：R15522513 (Ching-Yu Chang)</small></small></span>
+<span class="highlight-text"><small><small>學號：R15522538 (Yuan-Hsi Chu)</small></small></span>
 
 <div class="row justify-content-sm-center">
   <div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/cychang.png" title="張敬宇" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/yhchu.png" title="朱原希" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
 ##### <span class="highlight-text">自傳</span>
 
-本人現為國立臺灣大學大學機械工程學研究所碩士班一年級學生，於國立臺灣大學機械工程學系應用力學實驗室從事研究工作，指導教授為實驗室主持人王建凱副教授，研究興趣包含固體力學與有限元素法，期望透過理論分析、數值模擬與實驗方法，深入探討相關工程與科學問題。
+本人現為國立臺灣大學機械工程學研究所碩士班一年級學生，於國立臺灣大學機械工程學系應用力學實驗室從事研究工作，指導教授為實驗室主持人王建凱副教授，主要專注於計算力學與人工智慧輔助數值分析領域之相關研究，研究興趣包含有限元素法、神經網路與網格最佳化，期望透過理論分析、數值模擬與實驗方法，深入探討相關工程／科學問題。
 
-在學士階段之學習過程中，修習過材料力學、機械設計等核心課程，奠定固體力學與分析之理論基礎，並逐步培養問題分析與研究能力。過往專題經驗中，進行脛骨骨折有限元素分析與固定裝置探討，負責程式模擬、結果分析與結構設計相關工作，對研究流程與學術方法有更全面的理解。此外，亦具備程式設計、數值分析與資料處理等之實務經驗。
+在學士與碩士階段之學習過程中，修習過人工智慧、有限元素法、線彈性力學等核心課程，奠定數值分析與固體力學之理論基礎，並逐步培養問題分析與研究能力。此外，亦具備程式設計與數值分析之實務經驗，熟悉使用 Python 與 VS Code 等計算工具，並曾將研究成果應用於有限元素數值模擬相關問題之分析。
 
-未來研究方向期望結合數值分析與固體力學之方法，提升研究成果之理論深度與實務價值，並逐步累積獨立研究與學術發表之能力。
+未來研究方向將持續聚焦於計算力學與智慧化數值分析領域，期望結合有限元素法與人工智慧之方法，提升研究成果之理論深度與實務價值，並逐步累積獨立研究與學術發表之能力。
+
 
 ##### <span class="highlight-text">研究領域</span>
 
-固體力學、實驗力學、有限元素法
+計算力學、有限元素法、神經網路、數值分析、網格最佳化
 
 ##### <span class="highlight-text">學歷</span>
 
 - 2026 – 迄今：機械工程碩士生，固體力學組，國立臺灣大學，臺北市，臺灣
-- 2022 – 2026：機械工程學士，國立臺灣科技大學，臺北市，臺灣
-- 2019 – 2022：臺北市立大安高級工業職業學校，臺北市，臺灣
+- 2022 – 2026：機電工程學士，國立臺灣師範大學，臺北市，臺灣
+- 2019 – 2022：高雄女子高級中學，高雄市，臺灣
 
 ##### <span class="highlight-text">經歷</span>
 
 - 2026 – 迄今：研究助理，機械工程學系，固體力學組，工學院，國立臺灣大學，臺北市，臺灣
+- 2026 – 迄今：教學助理，機械工程學系，固體力學組，工學院，國立臺灣大學，台北市，台灣
+
+##### <span class="highlight-text">認證</span>
+
+1. 全英語授課（English as a medium of instruction，EMI）教學助理資格認證，國立臺灣大學，臺北市，臺灣（2026）
