@@ -1,18 +1,18 @@
 ---
 layout: page
-title: 張敬宇
-description: <small>碩士生</small><small><small> - 細胞生物微觀變形之影像量測即時與全流程去噪技術研究</small></small>
-img: assets/img/cychang.png
+title: 黃品崴
+description: <small>碩士生</small><small><small> - 晶圓先進製程之新式高效模擬技術研究</small></small>
+img: assets/img/pwhuang.png
 importance: 9
 category: Graduate
 pagefind: true
 ---
 
-<span class="highlight-text"><small><small>學號：R15522513 (Ching-Yu Chang)</small></small></span>
+<span class="highlight-text"><small><small>學號：R15522522 (Pin-Wei Huang)</small></small></span>
 
 <div class="row justify-content-sm-center">
   <div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/cychang.png" title="張敬宇" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/pwhuang.png" title="黃品崴" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
