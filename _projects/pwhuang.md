@@ -1,18 +1,18 @@
 ---
 layout: page
-title: 蘇子翔
-description: <small>碩士生</small><small><small> - 樂高動力積木之新式科學實驗儀器開發研究</small></small>
-img: assets/img/zxsu.png
+title: 黃品崴
+description: <small>碩士生</small><small><small> - 晶圓先進製程之新式高效模擬技術研究</small></small>
+img: assets/img/pwhuang.png
 importance: 9
 category: Graduate
 pagefind: true
 ---
 
-<span class="highlight-text"><small><small>學號：R15522510 (Zi-Xiang Su)</small></small></span>
+<span class="highlight-text"><small><small>學號：R15522522 (Pin-Wei Huang)</small></small></span>
 
 <div class="row justify-content-sm-center">
   <div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/zxsu.png" title="蘇子翔" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/pwhuang.png" title="黃品崴" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
