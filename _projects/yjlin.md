@@ -12,7 +12,7 @@ pagefind: true
 
 <div class="row justify-content-sm-center">
   <div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/ltwang.png" title="王俐婷" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/yjlin.png" title="林英俊" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
