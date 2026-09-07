@@ -1,18 +1,18 @@
 ---
 layout: page
-title: 劉懿純
-description: <small>碩士生</small><small><small> - 焊球構裝晶片電子元件之先進模擬技術研究</small></small>
-img: assets/img/ycliu.png
+title: 朱原希
+description: <small>碩士生</small><small><small> - 融合有限元素計算與科學神經網路於晶圓先進製程模擬技術研究</small></small>
+img: assets/img/yhchu.png
 importance: 11
 category: Graduate
 pagefind: true
 ---
 
-<span class="highlight-text"><small><small>學號：R15522534 (Yi-Chuen Liu)</small></small></span>
+<span class="highlight-text"><small><small>學號：R15522538 (Yuan-Hsi Chu)</small></small></span>
 
 <div class="row justify-content-sm-center">
   <div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/ycliu.png" title="劉懿純" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/yhchu.png" title="朱原希" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
