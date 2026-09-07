@@ -1,10 +1,10 @@
 ---
 layout: page
 title: 周俊丞
-description: <small>碩士生</small><small><small> - 應用人工神經網路式有限元素分析於最佳設計</small></small>
+description: <small>碩士生</small><small><small> - 應用神經網路式有限元素法於機械系統分析與最佳設計</small></small>
 img: assets/img/jczhou.png
 importance: 7
-category: Graduate
+category: Alumni
 pagefind: true
 ---
 
@@ -18,7 +18,7 @@ pagefind: true
 
 ##### <span class="highlight-text">自傳</span>
 
-本人現為國立臺灣大學機械工程學研究所碩士班二年級學生，於國立臺灣大學機械工程學系應用力學實驗室從事研究工作，指導教授為實驗室主持人王建凱副教授，主要專注於神經網路式有限元素領域之相關研究，研究興趣包含 Elasto-Plastic FEM、Neural Network FEM 與 Physics AI，期望透過理論分析、數值模擬與實驗方法，深入探討相關工程與科學問題。
+本人畢業於國立臺灣大學機械工程學研究所碩士班，就學時期於國立臺灣大學機械工程學系應用力學實驗室從事研究工作，指導教授為實驗室主持人王建凱副教授，主要專注於神經網路式有限元素領域之相關研究，研究興趣包含 Elasto-Plastic FEM、Neural Network FEM 與 Physics AI，期望透過理論分析、數值模擬與實驗方法，深入探討相關工程與科學問題。
 
 在碩士階段之學習過程中，修習過有限元素法、線彈性力學與機器學習等核心課程，奠定有限元素與神經網路之理論基礎，並逐步培養問題分析與研究能力。研究主要聚焦於開發神經網路式有限元素法，以突破傳統有限元素法的限制。此外，亦具備 CAD 繪圖渲染之實務經驗，熟悉使用 Inventor、Solidwork、Blender 與 Unity 等工具。
 
