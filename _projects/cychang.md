@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 張敬宇
-description: <small>碩士生</small><small><small> - 細胞生物微觀變形之影像量測去噪技術研究</small></small>
+description: <small>碩士生</small><small><small> - 細胞生物微觀變形之影像量測即時與全流程去噪技術研究</small></small>
 img: assets/img/cychang.png
 importance: 8
 category: Graduate
