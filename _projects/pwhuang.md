@@ -2,7 +2,7 @@
 layout: page
 title: 黃品崴
 description: <small>碩士生</small><small><small> - 晶圓先進製程之新式高效模擬技術研究</small></small>
-img: assets/img/pwhuang.png
+img: assets/img/cychang.png
 importance: 9
 category: Graduate
 pagefind: true
@@ -12,7 +12,7 @@ pagefind: true
 
 <div class="row justify-content-sm-center">
   <div class="col-12 col-md-6 col-lg-4 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/pwhuang.png" title="黃品崴" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/cychang.png" title="黃品崴" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
