@@ -7,7 +7,7 @@ related_posts: false
 pagefind: true
 ---
 
-碩士[簡詩庭](https://ntumeaml.github.io/people/stjian/)，榮獲 [2026 臺大工學院研究生院長獎暨論文海報獎](https://www.me.ntu.edu.tw/web/news/honor.jsp?npage=2)，工學院，國立臺灣大學（[臺大校訓 1698 期報導](https://sec.ntu.edu.tw/epaper/article.asp?num=1698&sn=44870)）。
+碩士[簡詩庭](https://ntumeaml.github.io/people/stjian/)，榮獲 [2026 臺大工學院研究生院長獎暨論文海報獎](https://www.me.ntu.edu.tw/web/news/honor.jsp?npage=2)，工學院，國立臺灣大學（[臺大校訊 1698 期報導](https://sec.ntu.edu.tw/epaper/article.asp?num=1698&sn=44870)）。
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
