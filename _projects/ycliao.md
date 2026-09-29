@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 廖晏晨
-description: <small>碩士 2019 畢</small><small><small> - 應用有限元素分析於纖維化肺組織之力學研究</small></small>
+description: <small>碩士 2019 畢</small><small><small> - 應用有限元素分析於纖維化肺組織之力學研究</small></small><br><small>現職</small><small><small> - 資訊科技組專案經理，臺灣營建研究院</small></small>
 importance: 43
 category: Alumni
 pagefind: true
