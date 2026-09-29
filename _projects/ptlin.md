@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 林柏廷
-description: <small>碩士 2023 畢</small><small><small> - 考慮不確定性於斯托克斯流場域極值反應解析與量測數據降噪之連體力學研究 - </small></small><small>現職：博士生，機械工程學系，美國德州農工大學（Texas A&M University）</small>
+description: <small>碩士 2023 畢</small><small><small> - 考慮不確定性於斯托克斯流場域極值反應解析與量測數據降噪之連體力學研究 - </small></small><br><small>現職</small><small><small> - 博士生，機械工程學系，美國德州農工大學（Texas A&M University）</small></small>
 importance: 35
 category: Alumni
 pagefind: true
