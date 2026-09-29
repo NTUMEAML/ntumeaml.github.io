@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 鄧佳怡
-description: <small>碩士 2019 畢</small><small><small> - 摺疊模型之實作與結構力學分析</small></small>
+description: <small>碩士 2019 畢</small><small><small> - 摺疊模型之實作與結構力學分析</small></small><br><small>現職</small><small><small> - 專案工程師，潤弘精密工程（RUENTEX）</small></small>
 importance: 42
 category: Alumni
 pagefind: true
