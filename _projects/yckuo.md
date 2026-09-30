@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 郭玉成
-description: <small>碩士生</small><small><small> - 新式流固耦合之力學分析理論與計算技術研究</small></small>
+description: <small>碩士生</small><small><small> - 新式流固耦合之力學分析理論與計算技術研究</small></small><br><small>暑期實習</small><small><small> - TAMHS1 HW，台灣積體電路製造股份有限公司（TSMC）</small></small>
 img: assets/img/yckuo.png
 importance: 5
 category: Graduate

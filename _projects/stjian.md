@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 簡詩庭
-description: <small>碩士 2026 畢</small><small><small> - 焊球構裝晶片之機械效能分析與智慧生成設計</small></small>
+description: <small>碩士 2026 畢</small><small><small> - 焊球構裝晶片之機械效能分析與智慧生成設計</small></small><br><small>現職</small><small><small> - CMP 薄膜製程工程師，台灣積體電路製造股份有限公司（TSMC）</small></small>
 img: assets/img/stjian.png
 importance: 14
 category: Alumni

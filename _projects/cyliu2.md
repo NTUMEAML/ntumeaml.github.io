@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 劉䕒允
-description: <small>碩士 2026 畢</small><small><small> - 樂高動力積木系統之生成式智慧設計技術開發</small></small>
+description: <small>碩士 2026 畢</small><small><small> - 樂高動力積木系統之生成式智慧設計技術開發</small></small>現職</small><small><small> - LIT 黃光製程工程師，台灣積體電路製造股份有限公司（TSMC）</small></small>
 img: assets/img/cyliu2.png
 importance: 20
 category: Alumni

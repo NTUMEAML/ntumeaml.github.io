@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 朱芃睿
-description: <small>碩士生</small><small><small> - 應用有限元素計算與科學神經網路於晶圓先進製程模擬技術研究</small></small>
+description: <small>碩士生</small><small><small> - 應用有限元素計算與科學神經網路於晶圓先進製程模擬技術研究</small></small><br><small>暑期實習</small><small><small> - CVD1-EE，台灣積體電路製造股份有限公司（TSMC）</small></small>
 img: assets/img/przhu.png
 importance: 3
 category: Graduate
