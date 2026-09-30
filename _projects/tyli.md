@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 李庭屹
-description: <small>碩士 2024 畢</small><small><small> - 具幾何特性阻流體引致渦激振動之流固耦合力學研究</small></small>
+description: <small>碩士 2024 畢</small><small><small> - 具幾何特性阻流體引致渦激振動之流固耦合力學研究</small></small><br><small>現職</small><small><small> - Technology R&D Dept. VI，緯創資通 (Wistron Corporation)</small></small>
 importance: 27
 category: Alumni
 pagefind: true
