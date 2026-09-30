@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 蔡昌旻
-description: <small>碩士 2017 畢</small><small><small> - 結構最佳設計力學於對應系統動力尖峰反應之極限載重研究</small></small>
+description: <small>碩士 2017 畢</small><small><small> - 結構最佳設計力學於對應系統動力尖峰反應之極限載重研究</small></small><br><small>現職</small><small><small> - 博士生，工程學院，美國喬治亞理工學院（Georgia Institute of Technology）</small></small>
 importance: 45
 category: Alumni
 pagefind: true
