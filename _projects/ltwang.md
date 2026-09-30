@@ -37,7 +37,7 @@ pagefind: true
 ##### <span class="highlight-text">經歷</span>
 
 - 2026 – 迄今：教學助理，機械工程學系，固體力學組，工學院，國立臺灣大學，臺北市，臺灣
-- 2026 夏：暑期實習 DE EE，美光科技 (Micron Technology, Inc.)，臺灣
+- 2026 夏：暑期實習 DE EE，美光科技 (Micron Technology, Inc.)，桃園市，臺灣
 - 2025 – 迄今：研究助理，機械工程學系，固體力學組，工學院，國立臺灣大學，臺北市，臺灣
 
 ##### <span class="highlight-text">獲獎</span>
