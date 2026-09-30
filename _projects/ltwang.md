@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 王俐婷
-description: <small>碩士生</small><small><small> - 焊球構裝晶片電子元件之先進模擬技術研究</small></small><br><small>暑期實習</small><small><small> - DE EE，美光科技（Micron Technology, Inc.）</small></small>
+description: <small>碩士生</small><small><small> - 焊球構裝晶片電子元件之先進模擬技術研究</small></small><br><small>暑期實習</small><small><small> - DE EE，美光科技 (Micron Technology, Inc.)</small></small>
 img: assets/img/ltwang.png
 importance: 2
 category: Graduate
@@ -37,6 +37,7 @@ pagefind: true
 ##### <span class="highlight-text">經歷</span>
 
 - 2026 – 迄今：教學助理，機械工程學系，固體力學組，工學院，國立臺灣大學，臺北市，臺灣
+- 2026 夏：暑期實習 DE EE，美光科技 (Micron Technology, Inc.)，臺灣
 - 2025 – 迄今：研究助理，機械工程學系，固體力學組，工學院，國立臺灣大學，臺北市，臺灣
 
 ##### <span class="highlight-text">獲獎</span>

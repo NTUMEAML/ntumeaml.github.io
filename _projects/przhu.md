@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 朱芃睿
-description: <small>碩士生</small><small><small> - 應用有限元素計算與科學神經網路於晶圓先進製程模擬技術研究</small></small><br><small>暑期實習</small><small><small> - CVD1-EE，台灣積體電路製造股份有限公司（TSMC）</small></small>
+description: <small>碩士生</small><small><small> - 應用有限元素計算與科學神經網路於晶圓先進製程模擬技術研究</small></small><br><small>暑期實習</small><small><small> - CVD1-EE，台灣積體電路製造股份有限公司 (TSMC)</small></small>
 img: assets/img/przhu.png
 importance: 3
 category: Graduate
@@ -30,6 +30,7 @@ pagefind: true
 
 ##### <span class="highlight-text">學歷</span>
 
+- 2026 夏：暑期實習 CVD1-EE，台灣積體電路製造股份有限公司，臺灣
 - 2025 – 迄今：機械工程碩士生，固體力學組，國立臺灣大學，臺北市，臺灣
 - 2021 – 2025：機械工程學士，國立臺灣科技大學，臺北市，臺灣
 - 2018 – 2021：臺北市立大安高級工業職業學校，臺北市，臺灣

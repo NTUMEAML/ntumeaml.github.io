@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 郭玉成
-description: <small>碩士生</small><small><small> - 新式流固耦合之力學分析理論與計算技術研究</small></small><br><small>暑期實習</small><small><small> - TAMHS1 HW，台灣積體電路製造股份有限公司（TSMC）</small></small>
+description: <small>碩士生</small><small><small> - 新式流固耦合之力學分析理論與計算技術研究</small></small><br><small>暑期實習</small><small><small> - TAMHS1 HW，台灣積體電路製造股份有限公司 (TSMC)</small></small>
 img: assets/img/yckuo.png
 importance: 5
 category: Graduate
@@ -30,6 +30,7 @@ pagefind: true
 
 ##### <span class="highlight-text">學歷</span>
 
+- 2026 夏：暑期實習 TAMHS1 HW，台灣積體電路製造股份有限公司，臺灣
 - 2025 – 迄今：機械工程碩士生，固體力學組，國立臺灣大學，臺北市，臺灣
 - 2021 – 2025：機械工程學士，國立臺灣科技大學，臺北市，臺灣
 - 2018 – 2021：新興高級中學，桃園市，臺灣

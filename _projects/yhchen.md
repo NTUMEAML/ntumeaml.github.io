@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 陳昱翰
-description: <small>碩士 2026 畢</small><small><small> - 應用沉浸式有限元素法於波浪振動之流固耦合力學解析</small></small><br><small>現職</small><small><small> - 設備工程師，台灣積體電路製造股份有限公司（TSMC）</small></small>
+description: <small>碩士 2026 畢</small><small><small> - 應用沉浸式有限元素法於波浪振動之流固耦合力學解析</small></small><br><small>現職</small><small><small> - 設備工程師，台灣積體電路製造股份有限公司 (TSMC)</small></small>
 img: assets/img/yhchen.png
 importance: 18
 category: Alumni
