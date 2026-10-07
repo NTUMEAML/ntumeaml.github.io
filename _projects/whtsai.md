@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 蔡汶憲
-description: <small>碩士 2023 畢</small><small><small> - 層膠材料於第一模式剝離內聚力強度之實驗量測和理論分析研究</small></small>
+description: <small>碩士 2023 畢</small><small><small> - 層膠材料於第一模式剝離內聚力強度之實驗量測和理論分析研究</small></small><br><small>現職</small><small><small> - 製程工程師，台灣積體電路製造股份有限公司 (TSMC)</small></small>
 importance: 34
 category: Alumni
 pagefind: true
