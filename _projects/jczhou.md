@@ -3,7 +3,7 @@ layout: page
 title: 周俊丞
 description: <small>碩士 2026 畢</small><small><small> - 應用神經網路式有限元素法於機械系統分析與最佳設計</small></small>
 img: assets/img/jczhou.png
-importance: 19
+importance: 20
 category: Alumni
 pagefind: true
 ---

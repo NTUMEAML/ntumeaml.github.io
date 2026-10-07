@@ -2,7 +2,7 @@
 layout: page
 title: 陳宇揚
 description: <small>碩士 2025 畢</small><small><small> - 考慮不確定性於熱固耦合機械尖峰反應之解析力學研究</small></small>
-importance: 25
+importance: 26
 category: Alumni
 pagefind: true
 ---

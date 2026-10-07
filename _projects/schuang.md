@@ -3,7 +3,7 @@ layout: page
 title: 黃思齊
 description: <small>碩士 2026 畢</small><small><small> - 熱固耦合機械系統之動態不確定性定量解析</small></small>
 img: assets/img/schuang.png
-importance: 15
+importance: 16
 category: Alumni
 pagefind: true
 ---
