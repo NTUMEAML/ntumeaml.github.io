@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 呂季鴻
-description: <small>碩士 2025 畢</small><small><small> - 主動調諧質量阻尼器於機械系統之振動解析與原型實驗研究</small></small>
+description: <small>碩士 2025 畢</small><small><small> - 主動調諧質量阻尼器於機械系統之振動解析與原型實驗研究</small></small><br><small>現職</small><small><small> - 量測製程工程師，台灣積體電路製造股份有限公司 (TSMC)</small></small>
 importance: 23
 category: Alumni
 pagefind: true
