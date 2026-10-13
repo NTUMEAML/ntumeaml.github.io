@@ -6,4 +6,4 @@ related_posts: false
 pagefind: true
 ---
 
-實驗室受核定執行專題研究計畫，緯創資通 (Wistron corporation)。
+實驗室受核定執行[專題研究計畫](https://ntumeaml.github.io/work/work17/)，緯創資通 (Wistron corporation)。
