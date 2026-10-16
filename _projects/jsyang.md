@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 楊智翔
-description: <small>碩士 2025 畢</small><small><small> - 以流體模擬軟體為計算引擎之流固耦合力學分析系統開發</small></small>
+description: <small>碩士 2025 畢</small><small><small> - 以流體模擬軟體為計算引擎之流固耦合力學分析系統開發</small></small><br><small>現職</small><small><small> - EPI 設備工程師，台灣積體電路製造股份有限公司 (TSMC)</small></small>
 importance: 24
 category: Alumni
 pagefind: true

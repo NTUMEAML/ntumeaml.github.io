@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 陳宇揚
-description: <small>碩士 2025 畢</small><small><small> - 考慮不確定性於熱固耦合機械尖峰反應之解析力學研究</small></small>
+description: <small>碩士 2025 畢</small><small><small> - 考慮不確定性於熱固耦合機械尖峰反應之解析力學研究</small></small><br><small>現職</small><small><small> - MD 工程師，台灣積體電路製造股份有限公司 (TSMC)</small></small>
 importance: 26
 category: Alumni
 pagefind: true

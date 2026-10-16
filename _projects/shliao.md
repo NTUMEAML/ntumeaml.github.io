@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 廖紹宏
-description: <small>碩士 2024 畢</small><small><small> - 具聚合物薄膜多層堆疊組件於電子封裝製程之非線性變形研究</small></small>
+description: <small>碩士 2024 畢</small><small><small> - 具聚合物薄膜多層堆疊組件於電子封裝製程之非線性變形研究</small></small><br><small>現職</small><small><small> - RD (Research and Development) 工程師，台灣積體電路製造股份有限公司 (TSMC)</small></small>
 importance: 29
 category: Alumni
 pagefind: true
