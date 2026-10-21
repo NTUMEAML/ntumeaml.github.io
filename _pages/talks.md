@@ -8,6 +8,16 @@ nav_order: 7
 pagefind: true
 ---
 
+- **台灣計算力學學會年會**：Neural Network-Based Finite Element Method for Mechanical System Analysis and Optimal Design，周俊丞、朱芃睿、王建凱 @ 國立臺灣大學，臺北市，臺灣（Oct. 2026）
+
+- **台灣計算力學學會年會**：Development of a Generative Design Model for LEGO Dynamic Systems，劉䕒允、袁雨瞳、黃懷稼、王建凱 @ 國立臺灣大學，臺北市，臺灣（Oct. 2026）
+
+- **台灣計算力學學會年會**：Mechanical Performance Analysis and Intelligent Generative Design of Solder Ball Chip Packages，簡詩庭、王俐婷、王建凱、吳玟真 @ 國立臺灣大學，臺北市，臺灣（Oct. 2026）
+
+- **台灣計算力學學會年會**：Denoising Techniques for Deformation Measurement Images in the Study of Cell Motility and Blebbing Mechanisms，劉家鈺、黃峻奕、王建凱 @ 國立臺灣大學，臺北市，臺灣（Oct. 2026）
+
+- **台灣計算力學學會年會**：Application of the Immersed Finite Element Method to Fluid–Structure Interaction Analysis under Wave-Induced Vibration，陳昱翰、郭玉成、吳玟真、李庭屹、王建凱 @ 國立臺灣大學，臺北市，臺灣（Oct. 2026）
+
 - **中華民國力學學會年會**：Application of Tensegrity Mechanisms for Computational Investigation of Cell Mechanics，劉家鈺、王建凱 @ 國立聯合大學，苗栗縣，臺灣（Nov. 2025）
 
 - **台灣流體力學學會年會**：具複雜幾何微流體元件之流固耦合計算力學研究，黃唯哲、王建凱 @ 大板根，新北市，臺灣（Oct. 2025）
