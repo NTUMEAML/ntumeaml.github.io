@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 李宇軒
-description: <small>學士 2026 畢</small><small><small> - 微型振動集能機械之原型開發分析與實作</small></small>
+description: <small>學士 2026 畢</small><small><small> - 微型振動集能機械之原型開發分析與實作</small></small><br><small>現職</small><small><small> - 留學申請準備</small></small>
 importance: 22
 category: Alumni
 pagefind: true
