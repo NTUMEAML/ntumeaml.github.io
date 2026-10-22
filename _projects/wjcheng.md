@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 鄭惟仁
-description: <small>碩士 2017 畢</small><small><small> - 最佳設計力學於摺疊結構之研究</small></small>
+description: <small>碩士 2017 畢</small><small><small> - 最佳設計力學於摺疊結構之研究</small></small><br><small>現職</small><small><small> - 主任工程師，健峰營造有限公司</small></small>
 importance: 45
 category: Alumni
 pagefind: true
