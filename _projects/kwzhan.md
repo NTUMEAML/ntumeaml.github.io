@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 詹冠緯
-description: <small>碩士 2022 畢</small><small><small> - 浸潤參考映射技術於流固耦合力學解析研究</small></small>
+description: <small>碩士 2022 畢</small><small><small> - 浸潤參考映射技術於流固耦合力學解析研究</small></small><br><small>現職</small><small><small> - 製程工程師，台灣積體電路製造股份有限公司 (TSMC)</small></small>
 importance: 38
 category: Alumni
 pagefind: true
