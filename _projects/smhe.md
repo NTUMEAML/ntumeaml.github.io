@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 何書鳴
-description: <small>碩士 2023 畢</small><small><small> - 彈塑性球體衝擊碰撞之解析力學與計算模擬研究</small></small><br><small>現職</small><small><small> - Technology R&D Dept. VI，鴻海精密工業股份有限公司 (Foxconn)</small></small>
+description: <small>碩士 2023 畢</small><small><small> - 彈塑性球體衝擊碰撞之解析力學與計算模擬研究</small></small><br><small>現職</small><small><small> - 機械工程師，鴻海精密工業股份有限公司 (Foxconn)</small></small>
 importance: 34
 category: Alumni
 pagefind: true
