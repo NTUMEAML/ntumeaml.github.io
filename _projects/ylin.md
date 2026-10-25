@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 林昀
-description: <small>碩士 2022 畢</small><small><small> - 簡諧負載響應關聯法於隨機振動力學解析研究</small></small>
+description: <small>碩士 2022 畢</small><small><small> - 簡諧負載響應關聯法於隨機振動力學解析研究</small></small><br><small>現職</small><small><small> - 微影設備工程師，台灣積體電路製造股份有限公司 (TSMC)</small></small>
 importance: 40
 category: Alumni
 pagefind: true

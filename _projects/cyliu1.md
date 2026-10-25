@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 劉家鈺
-description: <small>碩士 2026 畢</small><small><small> - 變形量測影像去噪技術於細胞膜泡機制之研究</small></small>
+description: <small>碩士 2026 畢</small><small><small> - 變形量測影像去噪技術於細胞膜泡機制之研究</small></small><br><small>現職</small><small><small> - 設備工程師，台灣積體電路製造股份有限公司 (TSMC)</small></small>
 img: assets/img/cyliu1.png
 importance: 18
 category: Alumni

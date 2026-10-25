@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 黃暐傑
-description: <small>碩士 2022 畢</small><small><small> - 應用張拉整體機構於細胞計算力學研究</small></small>
+description: <small>碩士 2022 畢</small><small><small> - 應用張拉整體機構於細胞計算力學研究</small></small><br><small>現職</small><small><small> - 軟體工程師，星雲電腦股份有限公司 (GCC)</small></small>
 importance: 37
 category: Alumni
 pagefind: true

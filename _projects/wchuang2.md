@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 黃文峸
-description: <small>碩士 2024 畢</small><small><small> - 樂高層光顯微鏡研製於試件微變形量測與分析之應用</small></small>
+description: <small>碩士 2024 畢</small><small><small> - 樂高層光顯微鏡研製於試件微變形量測與分析之應用</small></small><br><small>現職</small><small><small> - 蝕刻設備工程師，台灣應用材料 (AMT)</small></small>
 importance: 32
 category: Alumni
 pagefind: true

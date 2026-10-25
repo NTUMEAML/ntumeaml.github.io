@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 姜品謙
-description: <small>碩士 2022 畢</small><small><small> - 內嵌水平集函數之浸潤邊界法於流固耦合計算力學研究</small></small>
+description: <small>碩士 2022 畢</small><small><small> - 內嵌水平集函數之浸潤邊界法於流固耦合計算力學研究</small></small><br><small>現職</small><small><small> - 研發工程師，均豪精密股份有限公司 (GPM)</small></small>
 importance: 39
 category: Alumni
 pagefind: true

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 周俊丞
-description: <small>碩士 2026 畢</small><small><small> - 應用神經網路式有限元素法於機械系統分析與最佳設計</small></small>
+description: <small>碩士 2026 畢</small><small><small> - 應用神經網路式有限元素法於機械系統分析與最佳設計</small></small><br><small>現職</small><small><small> - 義務兵役準備</small></small>
 img: assets/img/jczhou.png
 importance: 20
 category: Alumni
