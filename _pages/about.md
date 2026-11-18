@@ -10,10 +10,10 @@ profile:
   image: prof_wang_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><small>Chien-Kai Wang, Ph.D.</small></p>
-    <p><small>Assoc. Prof. of MechE</small></p>
-    <p><small>GUP of Semiconductors</small></p>
-    <p><small>National Taiwan Univ.</small></p>
+    <p><small>Chien-Kai Wang, Ph.D.</small></p><br>
+    <p><small>Assoc. Prof. of MechE</small></p><br>
+    <p><small>GUP of Semiconductors</small></p><br>
+    <p><small>National Taiwan Univ.</small></p><br>
     <p><small>ckwang [at]ntu.edu.tw</small></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
